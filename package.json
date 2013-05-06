@@ -1,0 +1,5 @@
+{
+    "main": "index.js",
+    "name": "push",
+    "readme": "Node.js module for push"
+}
